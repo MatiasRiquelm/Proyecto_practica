@@ -1,6 +1,6 @@
 #n{
-    color: rgb(255, 255, 255);
-    font-size:70px;
+    color: #ffffff;
+    font-size:60px;
     text-align: center;
 }
 
@@ -12,7 +12,10 @@
 
 
 .cuerpo{
+    
     background-image : url(..//img/pngtree-cute-wind-single-dog-background-material-image_279150.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
+    
 }
+
