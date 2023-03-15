@@ -1,0 +1,23 @@
+Requerimientos Funcionales:
+1. Registro de usuarios clientes y administradores.
+2. Catálogo de productos con imágenes, descripciones y precios.
+3. Realizar compras en línea con diferentes formas de pago.
+4. Generación de facturas electrónicas.
+5. Implementar un sistema de carrito de compras.
+6. Ofrecer diferentes opciones de envío.
+7. Sección de promociones y descuentos especiales.
+8. Sistema de valoración y comentario de los productos.
+9. Mantenimiento y actualización del inventario.
+10. Integración con redes sociales.
+11. Sección de contacto para solicitudes y quejas.
+
+Requerimientos No Funcionales:
+1. Seguridad en la página, resguardando los datos de los usuarios.
+2. Accesibilidad de la página desde diferentes dispositivos como móviles y tablets.
+3. Buena velocidad, evitando tiempos de carga prolongados.
+4. Diseño responsive, para su visualización en diferentes tipos de pantallas.
+5. Facilidad de uso e intuitividad, mejorando la experiencia del usuario.
+6. Funcionalidad en diferentes navegadores web.
+7. Escalabilidad, para adaptarse a los cambios en el inventario y la demanda.
+8. Manejo de datos personales adecuado y respetuoso de la privacidad del usuario.
+9. Fiabilidad, evitando errores y fallos en la página.
