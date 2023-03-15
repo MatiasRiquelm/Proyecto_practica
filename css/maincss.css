@@ -1,16 +1,32 @@
-header{
-    background-image: url(../IMG/fondogeneral.avif);
-    filter: grayscale(20%)
+.navegation{
+    background-color: burlywood;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
 }
 
 .titulos{
-    color:black;
+    color:rgb(255, 255, 255);
     text-align: center;
-    background-color: beige;
+    font-size: 40px;
+    font-weight: bolder;
+
 }
 
 .p_titulos{
-    color: black;
+    color: rgb(255, 255, 255);
     text-align: center;
-    background-color: beige;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+body{
+    background-image: url(../IMG/pngtree-cute-wind-single-dog-background-material-image_279150.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.pie_pagina{
+    text-align: center;
 }
