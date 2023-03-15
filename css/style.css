@@ -1,0 +1,16 @@
+header{
+    background-image: url(../IMG/fondogeneral.avif);
+    filter: grayscale(20%)
+}
+
+.titulos{
+    color:black;
+    text-align: center;
+    background-color: beige;
+}
+
+.p_titulos{
+    color: black;
+    text-align: center;
+    background-color: beige;
+}
